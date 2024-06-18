@@ -9,4 +9,3 @@ Utilize os metodos dentro da collection do postman dentro do projeto.
 
 
 Criado por: ANDRÉ GOBI
-Tel: (18) 98826-9875 
